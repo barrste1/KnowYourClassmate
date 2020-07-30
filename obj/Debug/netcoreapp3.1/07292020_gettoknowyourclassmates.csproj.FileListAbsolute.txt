@@ -1,0 +1,13 @@
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\bin\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.exe
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\bin\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.deps.json
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\bin\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.runtimeconfig.json
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\bin\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.runtimeconfig.dev.json
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\bin\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.dll
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\bin\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.pdb
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\obj\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.csprojAssemblyReference.cache
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\obj\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.AssemblyInfoInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\obj\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.AssemblyInfo.cs
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\obj\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\obj\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.dll
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\obj\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.pdb
+C:\Users\Stephen Barr (Work)\source\repos\07292020_gettoknowyourclassmates\obj\Debug\netcoreapp3.1\07292020_gettoknowyourclassmates.genruntimeconfig.cache
